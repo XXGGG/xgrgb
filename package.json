@@ -1,0 +1,11 @@
+{
+  "name": "xgrgb",
+  "version": "0.0.4",
+  "description": "前端JavaScript利用HTML5的canvas新特性获取图片主体颜色",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "XXGGG",
+  "license": "ISC"
+}

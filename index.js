@@ -1,4 +1,4 @@
-export default function xgrgb(img) {
+function xgrgb(img) {
     
     var c = document.createElement("canvas");  //创建canvas元素
     c.width = img.width
@@ -44,3 +44,5 @@ export default function xgrgb(img) {
     }
     return rgb
 }
+
+export {xgrgb}
